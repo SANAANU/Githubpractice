@@ -13,7 +13,7 @@ for(int y=s;y>=1;y--) {
 s--;
 System.out.println();
 }
-		
+	System.out.println();	
 	}
 
 }
