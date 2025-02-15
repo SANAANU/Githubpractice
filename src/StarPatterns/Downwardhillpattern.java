@@ -22,7 +22,8 @@ public class Downwardhillpattern {
 		}
 			System.out.println();
 		}
-		//Gitpractice1
+		//Gitpractice1...............
+		//Practice......................
 	}
 
 }
