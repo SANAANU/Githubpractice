@@ -22,7 +22,7 @@ public class Downwardhillpattern {
 		}
 			System.out.println();
 		}
-
+		//Gitpractice1
 	}
 
 }
